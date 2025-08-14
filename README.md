@@ -36,7 +36,7 @@
 | 📈 **Metric** | 🔢 **Value** | 📈 **Metric** | 🔢 **Value** |
 |:---:|:---:|:---:|:---:|
 | **🏗️ Total Repositories** | `2` | **⭐ Total Stars** | `2` |
-| **📚 Original Repos** | `2` | **🍴 Total Forks** | `1` |
+| **📚 Original Repos** | `2` | **🍴 Total Forks** | `3` |
 | **🔄 Forked Repos** | `0` | **👥 Followers** | `0` |
 | **📦 Repository Size** | `0.0 MB` | **🏆 Most Starred** | `kamaldhitalofficial (2 ⭐)` |
 
