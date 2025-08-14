@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Kamal Dhital!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;2%2B+repositories+and+counting...;2+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;3%2B+repositories+and+counting...;2+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
 
 </div>
 
@@ -35,8 +35,8 @@
 
 | 📈 **Metric** | 🔢 **Value** | 📈 **Metric** | 🔢 **Value** |
 |:---:|:---:|:---:|:---:|
-| **🏗️ Total Repositories** | `2` | **⭐ Total Stars** | `2` |
-| **📚 Original Repos** | `2` | **🍴 Total Forks** | `3` |
+| **🏗️ Total Repositories** | `3` | **⭐ Total Stars** | `2` |
+| **📚 Original Repos** | `3` | **🍴 Total Forks** | `3` |
 | **🔄 Forked Repos** | `0` | **👥 Followers** | `0` |
 | **📦 Repository Size** | `0.0 MB` | **🏆 Most Starred** | `kamaldhitalofficial (2 ⭐)` |
 
