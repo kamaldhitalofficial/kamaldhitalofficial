@@ -37,8 +37,8 @@
 |:---:|:---:|:---:|:---:|
 | **🏗️ Total Repositories** | `3` | **⭐ Total Stars** | `2` |
 | **📚 Original Repos** | `3` | **🍴 Total Forks** | `3` |
-| **🔄 Forked Repos** | `0` | **👥 Followers** | `0` |
-| **📦 Repository Size** | `0.0 MB` | **🏆 Most Starred** | `kamaldhitalofficial (2 ⭐)` |
+| **🔄 Forked Repos** | `0` | **👥 Followers** | `1` |
+| **📦 Repository Size** | `0.1 MB` | **🏆 Most Starred** | `kamaldhitalofficial (2 ⭐)` |
 
 </div>
 
