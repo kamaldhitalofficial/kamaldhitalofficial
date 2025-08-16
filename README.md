@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Kamal Dhital!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;3%2B+repositories+and+counting...;2+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;5%2B+repositories+and+counting...;2+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
 
 </div>
 
@@ -35,10 +35,10 @@
 
 | 📈 **Metric** | 🔢 **Value** | 📈 **Metric** | 🔢 **Value** |
 |:---:|:---:|:---:|:---:|
-| **🏗️ Total Repositories** | `3` | **⭐ Total Stars** | `2` |
-| **📚 Original Repos** | `3` | **🍴 Total Forks** | `3` |
-| **🔄 Forked Repos** | `0` | **👥 Followers** | `1` |
-| **📦 Repository Size** | `0.1 MB` | **🏆 Most Starred** | `kamaldhitalofficial (2 ⭐)` |
+| **🏗️ Total Repositories** | `5` | **⭐ Total Stars** | `2` |
+| **📚 Original Repos** | `4` | **🍴 Total Forks** | `3` |
+| **🔄 Forked Repos** | `1` | **👥 Followers** | `1` |
+| **📦 Repository Size** | `10.4 MB` | **🏆 Most Starred** | `kamaldhitalofficial (2 ⭐)` |
 
 </div>
 
@@ -54,7 +54,7 @@
 
 📍 **Location:** Kathmandu, Nepal
 
-🌐 **Website:** Not specified
+🌐 **Website:** [www.kamaldhital.me](www.kamaldhital.me)
 
 ✉️ **Public Email:** kamaldhitalofficial@gmail.com
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaldhitalofficial@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamaldhitalofficial)
+[![Website](<https://img.shields.io/badge/Website-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white>)](www.kamaldhital.me) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaldhitalofficial@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamaldhitalofficial)
 [![Profile Views](https://komarev.com/ghpvc/?username=kamaldhitalofficial&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kamaldhitalofficial)
 
 </div>
